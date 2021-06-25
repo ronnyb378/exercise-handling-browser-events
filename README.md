@@ -79,3 +79,4 @@ Using the following parameters and starter code to create a calculator.
   - Get an array of the operators
   - Perform each math operation (NOTE: We'll use 4 while loops)
 - Add click handler clearing the input on press of clear
+# exercise-handling-browser-event
