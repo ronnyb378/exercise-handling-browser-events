@@ -35,7 +35,7 @@ Add an event to log "You scrolled the page" to the console when a user scrolls t
 Create a Shopping List using Event Listeners and DOM elements
 
 - Use input elements enter in new items for shopping list.
-  - Add a button to submit inputs and render the input values to the DOM.
+- Add a button to submit inputs and render the input values to the DOM.
 - Add a button to the DOM for each new item in shopping list that can be used to remove the item.
 
 
